@@ -1,4 +1,4 @@
-<img width="1270" height="991" alt="Screenshot 2026-07-15 120048" src="https://github.com/user-attachments/assets/5db26114-a1b3-4e34-b148-f3df413c90b4" /># 😴 Anti-Sleep Alarm System using Python & OpenCV
+# 😴 Anti-Sleep Alarm System using Python & OpenCV
 
 ## 📌 Project Overview
 The Anti-Sleep Alarm System is a real-time computer vision project that detects whether a person is falling asleep in front of a webcam.  
@@ -70,6 +70,8 @@ Add warning before alarm
 Mobile or web-based version
 
 📸 Demo
+<img width="1270" height="991" alt="Screenshot 2026-07-15 120048" src="https://github.com/user-attachments/assets/51e102fa-2af8-4555-a687-1e92c3dffb08" />
+<img width="1272" height="988" alt="Screenshot 2026-07-15 120108" src="https://github.com/user-attachments/assets/645ed958-3da6-44f3-b241-a89558c75f3c" />
 
 
 
