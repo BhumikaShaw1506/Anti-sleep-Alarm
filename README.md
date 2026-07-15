@@ -40,6 +40,12 @@ AntiSleepProject/
 
 ---
 
+## 📸 Demo
+<img width="1270" height="991" alt="Screenshot 2026-07-15 120048" src="https://github.com/user-attachments/assets/c498d9ee-5175-43e3-8371-52926e79dd98" />
+<img width="1272" height="988" alt="Screenshot 2026-07-15 120108" src="https://github.com/user-attachments/assets/6654f62c-3b91-4c3d-8a6f-304f53a058b3" />
+
+
+
 ## ⚙️ Installation & Setup
 
  ## 1️⃣ Clone the Repository
@@ -70,10 +76,7 @@ Add warning before alarm
 Mobile or web-based version
 
 ---
-## 📸 Demo
 
-![Screenshot 1](https://github.com/user-attachments/assets/51e102fa-2af8-4555-a687-1e92c3dffb08)
 
-![Screenshot 2](https://github.com/user-attachments/assets/645ed958-3da6-44f3-b241-a89558c75f3c)
 
 
