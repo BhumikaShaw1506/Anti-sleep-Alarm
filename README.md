@@ -71,8 +71,9 @@ Mobile or web-based version
 
 ---
 ## 📸 Demo
-<img width="1270" height="991" alt="Screenshot 2026-07-15 120048" src="https://github.com/user-attachments/assets/51e102fa-2af8-4555-a687-1e92c3dffb08" />
-<img width="1272" height="988" alt="Screenshot 2026-07-15 120108" src="https://github.com/user-attachments/assets/645ed958-3da6-44f3-b241-a89558c75f3c" />
 
+![Screenshot 1](https://github.com/user-attachments/assets/51e102fa-2af8-4555-a687-1e92c3dffb08)
+
+![Screenshot 2](https://github.com/user-attachments/assets/645ed958-3da6-44f3-b241-a89558c75f3c)
 
 
